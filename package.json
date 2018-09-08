@@ -8,6 +8,7 @@
     "bot": "node -r dotenv/config src/bot.js",
     "story-bot": "node -r dotenv/config src/storyBot.js",
     "emotions-bot": "node -r dotenv/config src/emotionsBot.js",
+    "spreadsheet-bot": "node -r dotenv/config src/spreadsheetBot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Manny Colon, colonmanuel7@gmail.com",
