@@ -1,2 +1,2 @@
 
-const audioBot = require('./audioBot')
+const emotionsBot = require('./emotionsBot')
